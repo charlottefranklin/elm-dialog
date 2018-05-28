@@ -1,6 +1,6 @@
-# Elm Dialog - A Modal Dialog Widget for Elm
+# Elm dialog - a super simple dialog template for Elm
 
-A super simplified version of Kris Jenkins elm-dialog to pull in the IU. 
+A super simplified version of Kris Jenkins elm-dialog to pull in the UI. 
 Write tests and customise styles in your own project.
 
 
