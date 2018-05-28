@@ -4,8 +4,7 @@
     "repository": "https://github.com/krisajenkins/elm-dialog.git",
     "license": "MIT",
     "source-directories": [
-        "src",
-        "examples"
+        "src"
     ],
     "exposed-modules": [
         "Dialog"

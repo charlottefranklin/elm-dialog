@@ -1,11 +1,14 @@
 # Elm Dialog - A Modal Dialog Widget for Elm
 
-A simplified version of Kris Jenkins elm-dialog
+A super simplified version of Kris Jenkins elm-dialog to pull in the IU. 
+Write tests and customise styles in your own project.
+
 
 ## Aims
 
 * Create a bootstrap-free dialog box
 * Small amount of customisation required
+* Tests to be written in user project
 
 
 ## Installation
@@ -21,19 +24,6 @@ $ elm package install charlottefranklin/elm-dialog
 [See the Elm package for full usage docs](http://package.elm-lang.org/packages/krisajenkins/elm-dialog/latest/Dialog).
 
 
-## Building
-
-```
-make
-```
-
-...will run the whole build and test suite.
-
-## Credits
-
-Thanks to [Emilien Taque](https://github.com/etaque) for ideas & support.
-Thanks to [Mike Onslow](https://github.com/mikeonslow) for the `containerClass`
-feature.
 ## License
 
 Copyright © 2018 Charlotte Franklin
