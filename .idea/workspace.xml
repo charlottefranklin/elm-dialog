@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a682323-71d1-4f96-87e5-c476479f3661" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/elm-dialog.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ElmDialog/Exts/Maybe.elm" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/src/Dialog.elm" afterPath="$PROJECT_DIR$/src/ElmDialog/Main.elm" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/ElmDialog/Main.elm" afterPath="$PROJECT_DIR$/src/ElmDialog/Dialog.elm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.elm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ElmDialog/Main.elm">
+      <file leaf-file-name="Dialog.elm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ElmDialog/Dialog.elm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+            <state relative-caret-position="429">
+              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -314,7 +310,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527503639460</updated>
-      <workItem from="1527503641118" duration="1222000" />
+      <workItem from="1527503641118" duration="1904000" />
     </task>
     <task id="LOCAL-00001" summary="CF - first">
       <created>1527504206637</created>
@@ -330,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527504480216</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="CF - move dirs">
+      <created>1527504884490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527504884490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1222000" />
+    <option name="totallyTimeSpent" value="1904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3200" y="-1057" width="1813" height="1787" extended-state="0" />
@@ -377,7 +380,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CF - first" />
     <MESSAGE value="CF - take out all extraneous files" />
-    <option name="LAST_COMMIT_MESSAGE" value="CF - take out all extraneous files" />
+    <MESSAGE value="CF - move dirs" />
+    <option name="LAST_COMMIT_MESSAGE" value="CF - move dirs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -478,10 +482,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ElmDialog/Main.elm">
+    <entry file="file://$PROJECT_DIR$/src/ElmDialog/Dialog.elm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        <state relative-caret-position="429">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
         </state>
       </provider>
