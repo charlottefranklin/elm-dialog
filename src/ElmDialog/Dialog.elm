@@ -1,11 +1,5 @@
 module Dialog exposing (Config, view, map, mapMaybe)
 
-{-| Elm Modal Dialogs.
-
-@docs Config, view, map, mapMaybe
-
--}
-
 import ElmDialog.Exts.Maybe exposing (maybe, isJust)
 import Html
 import Html exposing (..)
